@@ -1,0 +1,35 @@
+COFRE INTELIGENTE — IMPERATECH SISTEMAS
+CAPTURAS DO SISTEMA EM OPERAÇÃO
+Desafio: Einsan Tech · Medical Security
+Acesso direto: https://cofre-inteligente-poc.vercel.app
+
+5 PNGs originais em resolução 3840 × 2640 px, capturados diretamente no site publicado.
+As capturas mostram o MVP com dados fictícios. Não houve montagem ou alteração do conteúdo das telas.
+A conservação usa leituras fictícias registradas manualmente; não há conexão com sensores físicos.
+O parecer SAI e a persistência na nuvem foram usados de fato durante a captura.
+O planejamento Just-in-Time é apoio à decisão por cobertura, consumo e prazo; compras externas não são enviadas.
+
+01. Painel de disponibilidade e projeção de saldo
+Arquivo: 01-painel-disponibilidade.png
+Legenda: Capital imobilizado, cobertura e risco de falta priorizam a reposição. A curva projeta o saldo a partir do consumo registrado; os dados desta demonstração são fictícios.
+Tela: https://cofre-inteligente-poc.vercel.app/#/
+
+02. Histórico de conservação em faixa normal
+Arquivo: 02-telemetria-conservacao.png
+Legenda: Leituras fictícias de 4,0 °C, 4,4 °C e 4,1 °C são registradas no Cofre A e aparecem no gráfico. A faixa configurada é de 2–8 °C; não há conexão com sensores físicos.
+Tela: https://cofre-inteligente-poc.vercel.app/#/cofre
+
+03. Reposição orientada ao momento da necessidade
+Arquivo: 03-reposicao-just-in-time.png
+Legenda: Consumo, cobertura, segurança, validade e prazo sustentam a reposição. O comparativo de fornecedores e um cenário de consumo +10% apoiam o planejamento Just-in-Time, sem alterar o saldo físico.
+Tela: https://cofre-inteligente-poc.vercel.app/#/recomendacoes
+
+04. Pedido recebido e vinculado ao parecer SAI
+Arquivo: 04-pedido-recebido-sai.png
+Legenda: Pedido gerado com análise SAI real, aprovado e recebido por lote, validade e quantidade. O status Recebido e as unidades conferidas comprovam a conclusão do fluxo interno; não houve envio a fornecedor externo.
+Tela: https://cofre-inteligente-poc.vercel.app/#/pedidos
+
+05. Alerta térmico com quarentena preventiva
+Arquivo: 05-alerta-termico-quarentena.png
+Legenda: A leitura fictícia de 1 °C fica abaixo da faixa configurada. O gráfico evidencia a excursão e os lotes afetados entram em quarentena, sendo excluídos do saldo utilizável na reposição.
+Tela: https://cofre-inteligente-poc.vercel.app/#/cofre
